@@ -1,5 +1,7 @@
 # Python 3 Web Crawler 
 
+```os``` ```urllib``` ```html.parser``` ```threading``` ```urlopen``` ```request```
+
 ## Description
 This project is a python 3 web crawler. Given a link i will crawl all of the links of that domain.
 
