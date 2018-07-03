@@ -3,7 +3,7 @@
 ## [Clock](./Clock)
 Python turtle analog clock made using ```time``` and ```turtle```
 
-## [Connect 4](./Connect 4)
+## [Connect 4](./Connect%204)
 Connect 4 program thats fully customisable. It doesn't have a GUI but you can create robots to do rvp or rvr.
 
 ## [Expander](./Expander)
