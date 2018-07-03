@@ -15,3 +15,6 @@ This python program gives the user an option of carriers to choose from and the 
 3.  The persons carrier
 4.  The content that you want to text
 5.  Your email password (the password is not covered)
+
+## License
+Licensed under the [MIT](../LICENSE) License.
