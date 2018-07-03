@@ -5,9 +5,9 @@ This project is a python 3 web crawler. Given a link i will crawl all of the lin
 
 
 ## How to use
-*Just run main.py
-*Input 1 is the name of the site.
-*Input 2 is the site link.
+- Just run main.py
+- Input 1 is the name of the site.
+- Input 2 is the site link.
 
 Made using thenewboston tutorial
 
