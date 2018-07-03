@@ -20,8 +20,8 @@ Program that decodes any encrypted text using the following rules:
 ## [Snake](./Snake)
 Snake game that isn't completed but on its way.
 
-## [Texter Program](./Texter_Program)
+## [Texter Program](./Texter%20Program)
 Text a persoon from your email using the phone number.
 
-## [Web Crawler](./Web Crawler)
+## [Web Crawler](./Web%20Crawler)
 Crawles every link on a page given the link/doamin.
