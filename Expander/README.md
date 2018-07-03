@@ -24,3 +24,6 @@ Rules:
 
     38[wer6[b3[acd]]7[w9[abcccc]pe8[abc]]9[abcdef]]
 
+## License
+Licensed under the [MIT](../LICENSE) License.
+
