@@ -1,4 +1,4 @@
-# Python3
+# Python 3 Projects
 
 ## [Clock](./Clock)
 Python turtle analog clock made using ```time``` and ```turtle```
