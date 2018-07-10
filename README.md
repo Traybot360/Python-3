@@ -1,5 +1,7 @@
 # Python 3 Projects
 
+If you wish to be appart of the community or contribute to the project please see the [Code of conduct](./code_of_conduct)
+
 ## [Clock](./Clock)
 Python turtle analog clock made using ```time``` and ```turtle```
 
