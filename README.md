@@ -21,7 +21,7 @@ Program that decodes any encrypted text using the following rules:
 Snake game that isn't completed but on its way.
 
 ## [Texter Program](./Texter%20Program)
-Text a persoon from your email using the phone number.
+Text a person from your email using the phone number.
 
 ## [Web Crawler](./Web%20Crawler)
 Crawles every link on a page given the link/doamin.
