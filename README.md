@@ -1,6 +1,6 @@
 # Python 3 Projects
 
-If you wish to be appart of the community or contribute to the project please see the [Code of conduct](./code_of_conduct)
+If you wish to be appart of the community or contribute to the project please see the [Code of conduct](./CODE_OF_CONDUCT)
 
 ## [Clock](./Clock)
 Python turtle analog clock made using ```time``` and ```turtle```
